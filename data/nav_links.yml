@@ -1,6 +1,10 @@
 - title: Home
   path: /
+- title: Services
+  path: /services
 - title: Lessons
   path: /lessons
 - title: Blog
   path: /posts
+- title: Contact
+  path: /contact
